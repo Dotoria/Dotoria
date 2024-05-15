@@ -18,6 +18,7 @@
 2024.04 ~ present | 📇 서울탑 등반기 (구. ToC) - developer
 2024.04 ~ present | ⚔️ Sword Behind - developer
 2024.01 ~ 2024.02 | 🎮 Nexon Dream Members (NDM) 게임 제작 발표회 참여 (팀장) - 게임명 : Bucket.txt
+2024.10 ~ 2024.03 | 🎮 Bucket.txt - designer
 2022.11 ~ present | 📱 Project T - scenario writer
 2021.12 ~ 2022.01 | 📑 Albiti 인턴
 
