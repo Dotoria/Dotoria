@@ -15,7 +15,7 @@
 
 기간 | 활동
 --------- | ---------
-2024.04 ~ present | 📇 서울탑 등반기 (구. ToC) - developer
+2024.04 ~ 2024.08 | 📇 서울탑 등반기 (구. ToC) - developer
 2024.04 ~ present | ⚔️ Sword Behind - developer
 2024.01 ~ 2024.02 | 🎮 Nexon Dream Members (NDM) 게임 제작 발표회 참여 (팀장) - 게임명 : Bucket.txt
 2024.10 ~ 2024.03 | 🎮 Bucket.txt - designer
