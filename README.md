@@ -6,7 +6,7 @@
 ---
 
 ## 🏫 Education
-* (2020.03 ~ present) 🇰🇷 [Yonsei University] Department of Astronomy
+* (2020.03 ~ 2024.08) 🇰🇷 [Yonsei University] Department of Astronomy & Department of Computer Science and Engineering
 * (2016.03 ~ 2019.02) 🇰🇷 [Inmyeong Girl's Highschool]
 
 ---
@@ -15,6 +15,7 @@
 
 기간 | 활동
 --------- | ---------
+2024.09 ~ present | 🧱 Bricky Sniper - developer
 2024.04 ~ 2024.08 | 📇 서울탑 등반기 (구. ToC) - developer
 2024.04 ~ present | ⚔️ Sword Behind - developer
 2024.01 ~ 2024.02 | 🎮 Nexon Dream Members (NDM) 게임 제작 발표회 참여 (팀장) - 게임명 : Bucket.txt
@@ -32,10 +33,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dotoria)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
-dotoria](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+dotoria](http://mazassumnida.wtf/api/v2/generate_badge?boj=dotoria)](https://solved.ac/dotoria)
 
 <a href="https://www.instagram.com/jade.hyun1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:h71148@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:dotless13@gmail.com)]
 
 <!--
 **Dotoria/Dotoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
