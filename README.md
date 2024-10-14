@@ -36,7 +36,7 @@
 dotoria](http://mazassumnida.wtf/api/v2/generate_badge?boj=dotoria)](https://solved.ac/dotoria)
 
 <a href="https://www.instagram.com/jade.hyun1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:dotless13@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:dotless13@gmail.com)](mailto:dotless13@gmail.com)
 
 <!--
 **Dotoria/Dotoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
