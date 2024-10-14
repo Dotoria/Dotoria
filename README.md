@@ -35,8 +35,12 @@
 [![Solved.ac
 dotoria](http://mazassumnida.wtf/api/v2/generate_badge?boj=dotoria)](https://solved.ac/dotoria)
 
-<a href="https://www.instagram.com/jade.hyun1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:dotless13@gmail.com)](mailto:dotless13@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jade.hyun1/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dotless13@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Unity Badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/11f3fb4973298010a036ddca6ecefcdf)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dotoria/Dotoria)
 
 <!--
 **Dotoria/Dotoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
