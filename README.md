@@ -17,7 +17,7 @@
 
 <br>
 
-## 💼 Experience
+## 💼 Carrer
 
 **[Supercent](https://supercent.io/)** · Growth 그룹 / AD-Dev 팀 — *Game Developer*
 `2025.04 ~ present`
